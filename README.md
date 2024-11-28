@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Garima Rajput!  
+# 👋 Hi, I’m Garima!  
 
 Welcome to my GitHub! I am a recent M.Tech graduate in Climate Science & Technology from IIT Bhubaneswar. I am passionate about solving real-world problems using data science, machine learning, and geospatial analysis.  
 
